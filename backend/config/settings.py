@@ -39,12 +39,12 @@ DJANGO_APPS = [
     'django.contrib.staticfiles',
     
     
-    "rest_framework",
+    'rest_framework',
 ]
 
 LOCAL_APPS=[
-    "otp",
-    
+    'otp',
+
 ]
 
 INSTALLED_APPS = DJANGO_APPS + LOCAL_APPS
